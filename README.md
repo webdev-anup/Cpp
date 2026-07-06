@@ -37,7 +37,7 @@ This repository is a reflection of my continuous learning in C++. Each program i
 👨‍💻 Author
 
 Anup Patwa
-Show Image
+https://img.shields.io/badge/GitHub-anup--patwa-181717?style=flat&logo=github
 
 
 📄 License
